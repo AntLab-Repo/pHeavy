@@ -6,6 +6,13 @@ pHeavy is a machine learning based scheme for predicting heavy flows directly on
 * Xiaoquan Zhang, Lin Cui, Fung Po Tso and Weijia Jia, "pHeavy: Predicting Heavy Flows in the Programmable Data Plane", _IEEE Transactions on Network and Service Management_, 18(4), pp.4353-4364. 
 
 ## About the code
+
+### BMv2
+
+To be added soon...
+
+### Tofino ASIC
+
 The core is written by P4<sub>16</sub> running in programmable switches (i.e., Tofino AISC).
 
 The Tofino-version code implements the prediction of TCP traffic via optional features (e.g., TCP flgas, packet length and port) and memory management via registers.
