@@ -7,15 +7,12 @@ pHeavy is a machine learning based scheme for predicting heavy flows directly on
 
 ## About the code
 
-### BMv2
-
-To be added soon...
 
 ### Tofino ASIC
 
 The core is written by P4<sub>16</sub> running in programmable switches (i.e., Tofino AISC).
 
-The Tofino-version code implements the prediction of TCP traffic via optional features (e.g., TCP flgas, packet length and port) and memory management via registers.
+The Tofino-version code implements the prediction of TCP traffic via optional features (e.g., TCP flags, packet length and port) and memory management via registers.
 
 ## Citations
 
